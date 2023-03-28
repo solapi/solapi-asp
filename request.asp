@@ -20,7 +20,7 @@ function RequestAPI(resourcePath, oJSON)
 
   Set resultJSON = New aspJSON
 
-  If oXMLHTTP.Status <> 200 Then
+  If oXMLHTTP.Status <> 200 AND debugEnabled = True Then
     Response.Write oXMLHTTP.statusText
     Response.Write oXMLHTTP.responseText
   End If
@@ -50,7 +50,7 @@ function RequestGET(resourcePath)
 
   Set resultJSON = New aspJSON
 
-  If oXMLHTTP.Status <> 200 Then
+  If oXMLHTTP.Status <> 200 AND debugEnabled = True Then
     Response.Write oXMLHTTP.statusText
     Response.Write oXMLHTTP.responseText
   End If

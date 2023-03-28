@@ -16,3 +16,4 @@ prettier.config.js
 yarn-error.log
 handlers/kakao/v2/channels/getSenderKeys.js
 real/
+config.asp
