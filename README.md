@@ -13,7 +13,8 @@ base64.asp
 - Base 64 인코딩
 
 config.asp
-- API Key 정보, 서버 URL, 웹훅 보안키 입력
+- API Key 정보, 서버 URL, 웹훅 보안키 입력, 디버그 출력
+- config.dist.asp --> config.asp 변경
 
 messages.asp
 - 메시지발송, 이미지업로드
@@ -36,3 +37,5 @@ examples
 - messagelist.asp : 메시지 목록 조회
 - webhook_report.asp : 웹훅 이벤트 처리 예제
 - webhook_report_customfields.asp : 웹훅 커스텀필드 접근 예시
+- get_balance.asp : 잔액 조회
+- get_bankaccount.asp : 전용 계좌 정보 조회
