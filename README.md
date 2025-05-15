@@ -1,9 +1,11 @@
-ASP용 솔라피 알림톡 및 문자메시지 발송 코드
--------------------------------------------
+# ASP용 솔라피 알림톡 및 문자메시지 발송 코드
 
-KISA_HMAC.asp
-KISA_SHA256.asp
-index_HMAC.asp
+## [ASP 발송 관련 가이드 문서](https://developers.solapi.com/tutorial/2023/03/07/send-sms-and-process-report-using-classic-asp) 를 참고해주세요.
+
+
+KISA_HMAC.asp  
+KISA_SHA256.asp  
+index_HMAC.asp  
 - SHA256 알고리즘 구현 코드(KISA제공)
 
 aspJSON1.19.asp
