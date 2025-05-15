@@ -1,6 +1,6 @@
 # ASP용 솔라피 알림톡 및 문자메시지 발송 코드
 
-## [ASP 발송 관련 가이드 문서](https://developers.solapi.com/tutorial/2023/03/07/send-sms-and-process-report-using-classic-asp) 를 참고해주세요.
+## [ASP 발송 관련 가이드 문서](https://developers.solapi.com/tutorial/2023/03/07/send-sms-and-process-report-using-classic-asp)를 참고해주세요.
 
 
 KISA_HMAC.asp  
